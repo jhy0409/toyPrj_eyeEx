@@ -87,7 +87,6 @@
 				68F155832C0E1CAD00608EC0 /* eyeEx2Tests */,
 				68F1558D2C0E1CAD00608EC0 /* eyeEx2UITests */,
 				68F1556B2C0E1CAC00608EC0 /* Products */,
-				FF73C98E071DCFBDC741BB87 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -131,13 +130,6 @@
 				68F155902C0E1CAD00608EC0 /* eyeEx2UITestsLaunchTests.swift */,
 			);
 			path = eyeEx2UITests;
-			sourceTree = "<group>";
-		};
-		FF73C98E071DCFBDC741BB87 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
